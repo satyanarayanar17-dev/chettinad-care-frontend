@@ -41,3 +41,8 @@ dist/
 dist/
 node_modules/
 backend/node_modules/
+
+.vite/
+dist/
+node_modules/
+backend/node_modules/
